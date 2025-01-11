@@ -21,3 +21,13 @@ if __name__ == "__main__":
 
     print(f"Value of x is {x}, after calling my_function1")
     print(f"Value of y is {y}, after calling my_function2")
+
+'''
+Output:
+1st function is running
+1st function ended
+2nd function is running
+2nd function ended
+Value of x is 5, after calling my_function1
+Value of y is 10, after calling my_function2
+'''
